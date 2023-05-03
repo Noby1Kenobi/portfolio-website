@@ -9,3 +9,5 @@ To Dos:
 - update projects to be my projects: social media clone, inventory project, fighting game, pong game, calculator
 - change instagram button to itchio button
 - change links for 'Learn More' button, navbar buttons, projects
+- rename Acomplishment component to Accomplishments (correct any typos)
+- repurpose accomplishment component into something else (if I can't think of something, then remove it)
