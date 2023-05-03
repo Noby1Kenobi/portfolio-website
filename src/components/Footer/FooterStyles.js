@@ -43,7 +43,7 @@ export const LinkItem = styled.a`
 	}
 `
 
-export const SocialIconsContainer = styled.div`
+export const SocialContainer = styled.div`
 max-width: 1040px;
 display: flex;
 justify-content: space-between;
@@ -101,7 +101,7 @@ export const Slogan = styled.p`
 	}
 `
 
-export const SocialContainer = styled.div`
+export const SocialIconsContainer = styled.div`
 	display: flex;
   align-items: center;
 
