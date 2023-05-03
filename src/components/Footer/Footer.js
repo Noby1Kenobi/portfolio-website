@@ -1,5 +1,6 @@
 import React from 'react';
-import { AiFillGithub, AiFillInstagram, AiFillLinkedin } from 'react-icons/ai';
+import { AiFillGithub, AiFillLinkedin } from 'react-icons/ai';
+import { FaItchIo } from 'react-icons/fa';
 
 import { SocialIcons } from '../Header/HeaderStyles';
 import { CompanyContainer, FooterWrapper, LinkColumn, LinkItem, LinkList, LinkTitle, Slogan, SocialContainer, SocialIconsContainer } from './FooterStyles';
@@ -22,14 +23,14 @@ const Footer = () => {
           <Slogan>slogan here</Slogan>
         </CompanyContainer>
         <SocialIconsContainer>
-          <SocialIcons href="https://github.com">
+          <SocialIcons href="https://github.com/Noby1Kenobi">
             <AiFillGithub size="3rem" />
           </SocialIcons>
-          <SocialIcons href="https://linkedin.com">
+          <SocialIcons href="https://www.linkedin.com/in/nobutora-iyoda-6581a7128/">
             <AiFillLinkedin size="3rem" />
           </SocialIcons>
-          <SocialIcons href="https://instagram.com">
-            <AiFillInstagram size="3rem" />
+          <SocialIcons href="https://nobi1kenobi.itch.io/">
+            <FaItchIo size="3rem" />
           </SocialIcons>
         </SocialIconsContainer>
       </SocialContainer>
