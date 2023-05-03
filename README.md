@@ -7,7 +7,8 @@ To Dos:
 - Add paragraph quickly talking about me
 - move data in accomplishments to constants just like projects
 - update projects to be my projects: social media clone, inventory project, fighting game, pong game, calculator
-- change instagram button to itchio button
+- change instagram button to itchio button for both header and footer
 - change links for 'Learn More' button, navbar buttons, projects
 - rename Acomplishment component to Accomplishments (correct any typos)
-- repurpose accomplishment component into something else (if I can't think of something, then remove it)
+- repurpose accomplishment component into something else (remove it for now, apply, then if I can think of something -> use it)
+- think of slogan (remove it for now, apply, then think of putting in slogan)
