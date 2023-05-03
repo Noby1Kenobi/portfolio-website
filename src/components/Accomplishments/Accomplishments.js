@@ -1,11 +1,11 @@
 import React from 'react';
 
 import { Section, SectionDivider, SectionTitle } from '../../styles/GlobalComponents';
-import { Box, Boxes, BoxNum, BoxText } from './AcomplishmentsStyles';
+import { Box, Boxes, BoxNum, BoxText } from './AccomplishmentsStyles';
 
 import { AccomplishmentData } from '../../constants/constants';
 
-const Acomplishments = () => (
+const Accomplishments = () => (
   <Section>
     <SectionDivider />
     <SectionTitle main>Personal Achievements</SectionTitle>
@@ -20,4 +20,4 @@ const Acomplishments = () => (
   </Section>
 );
 
-export default Acomplishments;
+export default Accomplishments;
