@@ -12,7 +12,7 @@ const Hero = () => (
         Nobutora Iyoda
       </SectionTitle>
       <SectionText>
-        Aspring Full-Stack Developer and <br/> Game Developer
+        Aspiring Full-Stack Developer and <br/> Game Developer
       </SectionText>
       <Link href="#about"><Button>Learn More</Button></Link>
     </LeftSection>
