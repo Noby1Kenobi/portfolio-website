@@ -19,9 +19,9 @@ const Footer = () => {
         </LinkColumn>
       </LinkList>
       <SocialContainer>
-        <CompanyContainer>
+        {/* <CompanyContainer>
           <Slogan>slogan here</Slogan>
-        </CompanyContainer>
+        </CompanyContainer> */}
         <SocialIconsContainer>
           <SocialIcons href="https://github.com/Noby1Kenobi">
             <AiFillGithub size="3rem" />
