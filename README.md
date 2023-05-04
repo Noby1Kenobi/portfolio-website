@@ -6,6 +6,6 @@ To Dos:
 - Add paragraph quickly talking about me
 - update projects to be my projects: social media clone, inventory project, fighting game, pong game, calculator
 - change links projects
-- rename Acomplishment component to Accomplishments (correct any typos)
-- repurpose accomplishment component into something else (remove it for now, apply, then if I can think of something -> use it)
-- think of slogan (remove it for now, apply, then think of putting in slogan)
+- repurpose accomplishment component into something else
+- think of way to use slogan component
+- change web icon (public/favicon.ico)

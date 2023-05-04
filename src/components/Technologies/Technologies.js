@@ -1,5 +1,5 @@
 import React from 'react';
-import { DiMongodb, DiReact, DiUnitySmall } from 'react-icons/di';
+import { DiNodejsSmall, DiReact, DiUnitySmall } from 'react-icons/di';
 import { Section, SectionDivider, SectionText, SectionTitle } from '../../styles/GlobalComponents';
 import { List, ListContainer, ListItem, ListParagraph, ListTitle } from './TechnologiesStyles';
 
@@ -16,18 +16,23 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
-            Experience with <br />
-            React.js
+            Experience with
+            <li>React.js</li>
+            <li>BootStrap</li>
+            <li>MaterialsUI</li>
           </ListParagraph>
         </ListContainer>
       </ListItem>
       <ListItem>
-        <DiMongodb size="3rem" />
+        <DiNodejsSmall size="3rem" />
         <ListContainer>
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
-            Experience with <br />
-            Node and Databases
+            Experience with
+            <li>Node.js</li>
+            <li>Express</li>
+            <li>MongoDB</li>
+            <li>SQLite</li>
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -36,8 +41,9 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Game Dev</ListTitle>
           <ListParagraph>
-            Experience with <br />
-            Unity
+            Experience with
+            <li>Unity</li>
+            <li>Love Lua</li>
           </ListParagraph>
         </ListContainer>
       </ListItem>
