@@ -16,10 +16,10 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
-            Experience with
-            <li>React.js</li>
-            <li>BootStrap</li>
-            <li>MaterialsUI</li>
+            Experience with <br/>
+            React.js <br/>
+            BootStrap <br/>
+            MaterialsUI
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -28,11 +28,11 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
-            Experience with
-            <li>Node.js</li>
-            <li>Express</li>
-            <li>MongoDB</li>
-            <li>SQLite</li>
+            Experience with <br/>
+            Node.js <br/>
+            Express <br/>
+            MongoDB <br/>
+            SQLite
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -41,9 +41,9 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Game Dev</ListTitle>
           <ListParagraph>
-            Experience with
-            <li>Unity</li>
-            <li>Love Lua</li>
+            Experience with <br/>
+            Unity <br/>
+            Love Lua
           </ListParagraph>
         </ListContainer>
       </ListItem>
