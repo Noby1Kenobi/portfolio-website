@@ -3,7 +3,7 @@ import { AiFillGithub, AiFillLinkedin } from 'react-icons/ai';
 import { FaItchIo } from 'react-icons/fa';
 
 import { SocialIcons } from '../Header/HeaderStyles';
-import { CompanyContainer, FooterWrapper, LinkColumn, LinkItem, LinkList, LinkTitle, Slogan, SocialContainer, SocialIconsContainer } from './FooterStyles';
+import { FooterWrapper, LinkColumn, LinkItem, LinkList, LinkTitle, SocialContainer, SocialIconsContainer } from './FooterStyles';
 
 const Footer = () => {
   return (
@@ -19,9 +19,6 @@ const Footer = () => {
         </LinkColumn>
       </LinkList>
       <SocialContainer>
-        {/* <CompanyContainer>
-          <Slogan>slogan here</Slogan>
-        </CompanyContainer> */}
         <SocialIconsContainer>
           <SocialIcons href="https://github.com/Noby1Kenobi">
             <AiFillGithub size="3rem" />
