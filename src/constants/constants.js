@@ -38,11 +38,10 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2017, text: 'Started my journey', },
-  { year: 2018, text: 'Worked as a freelance developer', },
-  { year: 2019, text: 'Founded JavaScript Mastery', },
-  { year: 2020, text: 'Shared my projects with the world', },
-  { year: 2021, text: 'Started my own platform', },
+  { year: 2021, text: 'Graduated Rensselaer Polytechnic Institute', },
+  { year: '2021-2022', text: 'Worked as a Software Developer at Epic Systems', },
+  { year: 2022, text: 'Finished Harvard CS50\'s Introduction to Game Development', },
+  { year: 2023, text: 'Finsihed The Odin Project', },
 ];
 
 export const AccomplishmentData = [
