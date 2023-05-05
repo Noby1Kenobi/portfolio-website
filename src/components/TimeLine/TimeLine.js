@@ -48,7 +48,7 @@ const Timeline = () => {
       <SectionTitle main>About Me</SectionTitle>
       <SectionText>
         Hello, my name is Nobutora Iyoda. I am a graduate of Rensselaer Polytechnic Institute with a Bachelor of Science in Computer Science and Mechanical Engineering.
-        I am looking to work in both Web Development and Game Development.
+        I am looking to work in both Software / Web Development and Game Development.
         After playing many games and working as a Software Developer at Epic Systems, I've come to love both fields.
         I'm constantly on the move, looking for the next challenge and looking to improve my skills in both passions.
       </SectionText>
