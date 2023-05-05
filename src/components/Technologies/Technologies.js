@@ -8,7 +8,7 @@ const Technologies = () =>  (
     <SectionDivider />
     <SectionTitle main>Technologies</SectionTitle>
     <SectionText>
-      I have experience using a range for technologies vital for web development both in front-end and back-end.
+      I have experience using a range of technologies vital for web development both in front-end and back-end.
     </SectionText>
     <List>
       <ListItem>
