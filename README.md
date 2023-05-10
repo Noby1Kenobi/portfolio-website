@@ -10,4 +10,4 @@ The website can be seen [here](https://niyoda.onrender.com/).
 - Run `npm i && npm start`
 
 ## References:
-- Website was made under guides of [jsmaster](https://www.youtube.com/watch?v=F627pKNUCVQ&t=31764s).
+- Website was made under guides of [jsmastery](https://www.youtube.com/watch?v=F627pKNUCVQ&t=31764s).
