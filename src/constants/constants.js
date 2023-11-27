@@ -41,7 +41,7 @@ export const TimeLineData = [
   { year: 2021, text: 'Graduated Rensselaer Polytechnic Institute', },
   { year: '2021-2022', text: 'Worked as a Software Developer at Epic Systems', },
   { year: 2022, text: 'Finished Harvard CS50\'s Introduction to Game Development', },
-  { year: 2023, text: 'Finished The Odin Project', },
+  { year: 2023, text: 'Finished The Odin Project and Harvard CS50\'s Web Programming with Python and JavaScript', },
 ];
 
 export const AccomplishmentData = [
