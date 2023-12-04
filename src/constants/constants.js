@@ -27,7 +27,7 @@ export const projects = [
     id: 2,
   },
   {
-    title: 'Pong Fantasty',
+    title: 'Fantasty Pong',
     description: "A pong game where players choose fantasy characters that have unique special ability to help them turn the game to their favor.",
     image: '/images/fantasy-pong.png',
     tags: ['Unity'],
