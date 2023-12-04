@@ -17,6 +17,9 @@ const Technologies = () =>  (
           <ListTitle>Front-End</ListTitle>
           <ListParagraph>
             Experience with <br/>
+            HTML <br/>
+            CSS <br/>
+            JavaScript <br/>
             React.js <br/>
             BootStrap <br/>
             MaterialsUI
@@ -31,6 +34,7 @@ const Technologies = () =>  (
             Experience with <br/>
             Node.js <br/>
             Express <br/>
+            Django <br/>
             MongoDB <br/>
             SQLite
           </ListParagraph>
@@ -43,6 +47,7 @@ const Technologies = () =>  (
           <ListParagraph>
             Experience with <br/>
             Unity <br/>
+            Unreal Engine <br/>
             Love Lua
           </ListParagraph>
         </ListContainer>
