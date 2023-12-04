@@ -44,9 +44,9 @@ export const TimeLineData = [
   { year: 2023, text: 'Finished The Odin Project and Harvard CS50\'s Web Programming with Python and JavaScript', },
 ];
 
-export const AccomplishmentData = [
-  { number: 20, text: 'Open Source Projects'},
-  { number: 1000, text: 'Students', },
-  { number: 1900, text: 'Github Followers', },
-  { number: 5000, text: 'Github Stars', }
-];
+// export const AccomplishmentData = [
+//   { number: 20, text: 'Open Source Projects'},
+//   { number: 1000, text: 'Students', },
+//   { number: 1900, text: 'Github Followers', },
+//   { number: 5000, text: 'Github Stars', }
+// ];
